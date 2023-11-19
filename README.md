@@ -1,7 +1,7 @@
 # Platformer Game
 
 ## Overview
-This is a simple platformer game written in C++. The game features a player character that can move left and right, jump, and interact with the environment. The goal is to navigate and avoiding obstacles and reaching the top.
+This is a simple platformer game written in C++. The game features a player character that can move left and right, jump, and interact with the environment. The goal is to navigate and avoiding obstacles and reaching the top. Main and header files can be found in the coursework folder.
 
 ## Features
 - Basic player controls (left, right, jump).
