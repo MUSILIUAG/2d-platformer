@@ -10,4 +10,4 @@ This is a simple platformer game written in C++. The game features a player char
 
 ## Prerequisites
 - C++ compiler (e.g., GCC, Visual Studio).
-- [SFML](https://www.sfml-dev.org/) library installed.
+- [SDL](https://www.libsdl.org/) library installed.
