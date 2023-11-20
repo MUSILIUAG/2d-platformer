@@ -61,7 +61,7 @@ void Init() {
 	player.vel.x = 0.f;
 	player.vel.y = 300.f;
 	player.acc.x = 350.f;
-	player.acc.y = 1400.f;
+	player.acc.y = 1355.f;
 
 
 
